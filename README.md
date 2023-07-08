@@ -1,5 +1,5 @@
 <p align="center">
-  ![intro](https://github.com/ervgan/ervgan/assets/51971952/1ab6469b-b5a5-4407-a20f-484aca49af11)
+  <img src=https://github.com/ervgan/ervgan/assets/51971952/1ab6469b-b5a5-4407-a20f-484aca49af11/>
 </p>
 
 🤖 Working at a robotics startup
