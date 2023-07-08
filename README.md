@@ -1,5 +1,4 @@
-![intro](https://github.com/ervgan/ervgan/assets/51971952/a54cf965-72e5-47de-9d03-b799b040c93c)
-8-05da6b2befd4)
+![intro](https://github.com/ervgan/ervgan/assets/51971952/1ab6469b-b5a5-4407-a20f-484aca49af11)
 
 🤖 Working at a robotics startup
 
