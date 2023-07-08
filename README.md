@@ -4,4 +4,4 @@
 
 🌱 Currently learning about generative AI and trying to build some cool software with it
 
-🏦 Previously I worked in banking, and dabbled in financial engineering, particularly in derivatives modelling, financial econometrics, asset pricing and mathematical optimization 
+🏦 Previously worked in banking, and dabbled in financial engineering, particularly in derivatives modelling, financial econometrics, asset pricing and mathematical optimization 
