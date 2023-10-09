@@ -2,8 +2,8 @@
   <img src=https://github.com/ervgan/ervgan/assets/51971952/1ab6469b-b5a5-4407-a20f-484aca49af11/>
 </p>
 
-🤖 Working at a robotics startup
+🌱 Full-time working on high-performance trading solutions in fintech. Part-time harnessing web3 technology to democratize access to digital assets. 
 
-🌱 Currently learning about generative AI and trying to build some cool software with it
+🤖 Had fun working in airborne robotics and deep learning
 
 🏦 Previously worked in banking, and dabbled in financial engineering, particularly in derivatives modelling, financial econometrics, asset pricing and mathematical optimization 
